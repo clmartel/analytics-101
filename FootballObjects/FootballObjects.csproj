@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{36FB0424-EDFF-43F2-A8A1-B35E7AB90784}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>FootballObjects</RootNamespace>
+    <AssemblyName>FootballObjects</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <SccProjectName>SAK</SccProjectName>
+    <SccLocalPath>SAK</SccLocalPath>
+    <SccAuxPath>SAK</SccAuxPath>
+    <SccProvider>SAK</SccProvider>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Conference.cs" />
+    <Compile Include="Division.cs" />
+    <Compile Include="Game.cs" />
+    <Compile Include="GameStats.cs" />
+    <Compile Include="League.cs" />
+    <Compile Include="Team.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="TeamComparers\NameCompare.cs" />
+    <Compile Include="TeamComparers\StatsCompare.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\FootballObjectContracts\FootballObjectContracts.csproj">
+      <Project>{fccfce05-0d17-48b6-a013-6fe795ee2c90}</Project>
+      <Name>FootballObjectContracts</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  
+  <!--<Target Name="AfterBuild" >  
+     <PropertyGroup>
+       <TargetAssembly>$(TargetPath)</TargetAssembly>
+     </PropertyGroup>
+     <ItemGroup>
+       <FootballObjectsDLL Include="$(TargetAssembly)" Condition="Exists('$(TargetAssembly)')" />
+       <DeployPath Include="C:\Temp\DepartmentTrainingAssemblies\**\*" />
+	   <DeployFolders Include="@(DeployPath->'%(RootDir)%(Directory)'->Distinct())" />
+     </ItemGroup>  
+	 <Copy SourceFiles="@(FootballObjectsDLL)" DestinationFolder="%(DeployFolders.FullPath)" SkipUnchangedFiles="true" />
+  </Target>--> 
+  
+</Project>
