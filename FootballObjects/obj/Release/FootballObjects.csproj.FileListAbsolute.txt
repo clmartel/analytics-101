@@ -1,8 +1,0 @@
-C:\Users\cmarte\Projects\NFLRank\FootballObjects\bin\Release\FootballObjects.dll
-C:\Users\cmarte\Projects\NFLRank\FootballObjects\bin\Release\FootballObjects.pdb
-C:\Users\cmarte\Projects\NFLRank\FootballObjects\bin\Release\FootballObjectContracts.dll
-C:\Users\cmarte\Projects\NFLRank\FootballObjects\bin\Release\FootballObjectContracts.pdb
-C:\Users\cmarte\Projects\NFLRank\FootballObjects\obj\Release\FootballObjects.csprojResolveAssemblyReference.cache
-C:\Users\cmarte\Projects\NFLRank\FootballObjects\obj\Release\FootballObjects.csproj.CoreCompileInputs.cache
-C:\Users\cmarte\Projects\NFLRank\FootballObjects\obj\Release\FootballObjects.dll
-C:\Users\cmarte\Projects\NFLRank\FootballObjects\obj\Release\FootballObjects.pdb

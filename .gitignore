@@ -1,1 +1,8 @@
 /.vs
+/FootballObjectContracts/bin
+/FootballObjectContracts/obj
+/FootballObjects/bin
+/FootballObjects/obj
+/TestResults
+/Testing/bin
+/Testing/obj

@@ -1,3 +1,0 @@
-Author,Assembly,StatsDataFile,LeagueDataFile
-Local,FootballObjects.dll,TestData/NFLStats_2016.xml,TestData/NFL_2016.xml
-Local,FootballObjects.dll,TestData/NFLStats_2017.xml,TestData/NFL_2017.xml
