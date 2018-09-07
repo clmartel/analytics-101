@@ -43,6 +43,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ExtensionMethods.cs" />
+    <Compile Include="LeagueBuilder.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
@@ -50,10 +52,24 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\FootballObjectContracts\FootballObjectContracts.csproj">
+      <Project>{fccfce05-0d17-48b6-a013-6fe795ee2c90}</Project>
+      <Name>FootballObjectContracts</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\FootballObjects\FootballObjects.csproj">
+      <Project>{36fb0424-edff-43f2-a8a1-b35e7ab90784}</Project>
+      <Name>FootballObjects</Name>
+    </ProjectReference>
     <ProjectReference Include="..\Testing\Testing.csproj">
       <Project>{1d6e84c5-f9e9-42c5-bd19-732b27c07f8c}</Project>
       <Name>Testing</Name>
     </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="NFLData\NFLStats_2018.xml" />
+    <Content Include="NFLData\NFL_2018.xml">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
