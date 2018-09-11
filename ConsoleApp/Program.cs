@@ -6,12 +6,14 @@ namespace ConsoleApp
 {
     class Program
     {
+        private static League NFL;
+
         static void Main(string[] args)
         {
             LeagueBuilder builder = new LeagueBuilder();
+            NFL = builder.BuildNFLLeague("../../NFLData/NFLStats_2018.xml", "../../NFLData/NFL_2018.xml");
 
-            League NFL = builder.BuildNFLLeague("../../NFLData/NFLStats_2018.xml", "../../NFLData/NFL_2018.xml");
-
+            // Create an array to hold all teams in the league, and fill it
             Team[] AllTeams = new Team[0];
             foreach (Conference conf in NFL.Conferences)
             {
@@ -32,9 +34,11 @@ namespace ConsoleApp
             // Display the teams
             PrintTeams(AllTeams);
 
-            // Sort the array of teams by win percentage
+            // Sort the array of teams by win percentage then by name
             Array.Sort(AllTeams, delegate (Team t1, Team t2) {
-                return t2.WinPercentage.CompareTo(t1.WinPercentage); // t2 is first because we want descending order (highest win % first)
+                int result = t2.WinPercentage.CompareTo(t1.WinPercentage); // t2 is first because we want descending order (highest win % first)
+                if (result != 0) return result;
+                else return t1.ToString().CompareTo(t2.ToString());
             });
             PrintTeams(AllTeams);
 
@@ -45,8 +49,19 @@ namespace ConsoleApp
             PrintTeams(AllTeams);
 
             // Compare New Orleans to Tampa Bay
-            string teamX = "NO";
-            string teamY = "TB";
+            PrintHeadToHead("NO", "TB");
+            // Compare Pittsburgh to Cleveland
+            PrintHeadToHead("PIT", "CLE");
+            // Compare New York Jets to Detroit
+            PrintHeadToHead("NYJ", "DET");
+            // Compare New Orleans to Cleveland
+            PrintHeadToHead("NO", "CLE");
+            // Compare New Orleans to New Orleans
+            PrintHeadToHead("NO", "NO");
+        }
+
+        static void PrintHeadToHead(string teamX, string teamY)
+        {
             int result = NFL.GetTeam(teamX).HeadToHead(teamY);
             if (result == 1)
                 Console.WriteLine("{0} has a winning record against {1}", NFL.GetTeam(teamX), NFL.GetTeam(teamY));
