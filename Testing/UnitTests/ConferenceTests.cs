@@ -94,11 +94,11 @@ namespace Testing.UnitTests
             {
                 case "NFLStats_2016.xml":
                     Assert.AreEqual(2, nfc.OffensiveRankings["NO"]);
-                    Assert.ThrowsException<KeyNotFoundException>(() => afc.DefensiveRankings["NO"]);
+                    Assert.ThrowsException<KeyNotFoundException>(() => afc.OffensiveRankings["NO"]);
                     break;
                 case "NFLStats_2017.xml":
                     Assert.AreEqual(3, nfc.OffensiveRankings["NO"]);
-                    Assert.ThrowsException<KeyNotFoundException>(() => afc.DefensiveRankings["NO"]);
+                    Assert.ThrowsException<KeyNotFoundException>(() => afc.OffensiveRankings["NO"]);
                     break;
                 default:
                     break;
