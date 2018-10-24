@@ -50,9 +50,10 @@
     <Compile Include="Game.cs" />
     <Compile Include="GameStats.cs" />
     <Compile Include="League.cs" />
+    <Compile Include="Predictor.cs" />
     <Compile Include="Team.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="TeamComparers\NameCompare.cs" />
+    <Compile Include="NameCompare.cs" />
     <Compile Include="TeamComparers\StatsCompare.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -62,7 +63,6 @@
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
-  
   <!--<Target Name="AfterBuild" >  
      <PropertyGroup>
        <TargetAssembly>$(TargetPath)</TargetAssembly>
@@ -73,6 +73,5 @@
 	   <DeployFolders Include="@(DeployPath->'%(RootDir)%(Directory)'->Distinct())" />
      </ItemGroup>  
 	 <Copy SourceFiles="@(FootballObjectsDLL)" DestinationFolder="%(DeployFolders.FullPath)" SkipUnchangedFiles="true" />
-  </Target>--> 
-  
+  </Target>-->
 </Project>

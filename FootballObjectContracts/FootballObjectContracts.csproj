@@ -49,6 +49,7 @@
     <Compile Include="IGame.cs" />
     <Compile Include="IGameStats.cs" />
     <Compile Include="ILeague.cs" />
+    <Compile Include="IPredictor.cs" />
     <Compile Include="ITeam.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
