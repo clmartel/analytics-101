@@ -6,6 +6,9 @@ using System.Threading.Tasks;
 
 namespace FootballObjectContracts
 {
-    public interface IPredictor { int Predict(ITeam HomeTeam, ITeam AwayTeam); }
+    public interface IPredictor {
+        string YourName { get; }
+        int Predict(ITeam HomeTeam, ITeam AwayTeam);
+    }
 
 }
