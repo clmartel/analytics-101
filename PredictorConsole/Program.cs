@@ -45,6 +45,7 @@ namespace PredictorConsole
                     }
                     Console.WriteLine(avg / weeks);
                 }
+                /*
                 else if (strWeek == "all bias")
                 {
                     for (int bias = -10; bias < 11; bias++)
@@ -64,7 +65,7 @@ namespace PredictorConsole
                         Console.SetOut(stdOut);
                         Console.WriteLine(bias + ": " + avg / weeks);
                     }
-                }
+                }*/
                 else
                     Console.WriteLine("Not a valid number");
             }
@@ -103,11 +104,7 @@ namespace PredictorConsole
                 ITeam hometeam = NFLPreviousWeek.GetTeam(g.HomeTeam);
                 ITeam awayteam = NFLPreviousWeek.GetTeam(g.AwayTeam);
                 Predictor P = new Predictor(NFL);
-                int prediction;
-                if (bias == int.MinValue)
-                    prediction = P.Predict(hometeam, awayteam);
-                else
-                    prediction = P.Predict(hometeam, awayteam, bias);
+                int prediction = P.Predict(hometeam, awayteam);
 
                 string predictedWinner;
                 if (prediction > 0)
