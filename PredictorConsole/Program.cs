@@ -103,7 +103,14 @@ namespace PredictorConsole
             {
                 ITeam hometeam = NFLPreviousWeek.GetTeam(g.HomeTeam);
                 ITeam awayteam = NFLPreviousWeek.GetTeam(g.AwayTeam);
-                Predictor P = new Predictor(NFL);
+                Predictor P = new Predictor(NFLPreviousWeek);
+                /*
+                int prediction;
+                if (bias == int.MinValue)
+                    prediction = P.Predict(hometeam, awayteam);
+                else
+                    prediction = P.Predict(hometeam, awayteam, bias);
+                    */
                 int prediction = P.Predict(hometeam, awayteam);
 
                 string predictedWinner;
