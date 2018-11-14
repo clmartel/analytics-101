@@ -18,6 +18,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PredictorConsole", "Predict
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PickerGUI", "PickerGUI\PickerGUI.csproj", "{6C03AA5C-0C41-400D-ABD7-DE5FDDE5AB92}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NFLScraper", "NFLScraper\NFLScraper.csproj", "{9DDBB4B4-AE1E-456A-B4B9-A4E144689FC9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -48,6 +50,10 @@ Global
 		{6C03AA5C-0C41-400D-ABD7-DE5FDDE5AB92}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6C03AA5C-0C41-400D-ABD7-DE5FDDE5AB92}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6C03AA5C-0C41-400D-ABD7-DE5FDDE5AB92}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9DDBB4B4-AE1E-456A-B4B9-A4E144689FC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DDBB4B4-AE1E-456A-B4B9-A4E144689FC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DDBB4B4-AE1E-456A-B4B9-A4E144689FC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DDBB4B4-AE1E-456A-B4B9-A4E144689FC9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

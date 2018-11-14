@@ -1,0 +1,13 @@
+C:\Users\cmarte\Projects\NFLRank\NFLScraper\bin\Debug\NFLScraper.exe.config
+C:\Users\cmarte\Projects\NFLRank\NFLScraper\bin\Debug\NFLScraper.exe
+C:\Users\cmarte\Projects\NFLRank\NFLScraper\bin\Debug\NFLScraper.pdb
+C:\Users\cmarte\Projects\NFLRank\NFLScraper\bin\Debug\FootballObjects.dll
+C:\Users\cmarte\Projects\NFLRank\NFLScraper\bin\Debug\Newtonsoft.Json.dll
+C:\Users\cmarte\Projects\NFLRank\NFLScraper\bin\Debug\FootballObjectContracts.dll
+C:\Users\cmarte\Projects\NFLRank\NFLScraper\bin\Debug\FootballObjects.pdb
+C:\Users\cmarte\Projects\NFLRank\NFLScraper\bin\Debug\Newtonsoft.Json.xml
+C:\Users\cmarte\Projects\NFLRank\NFLScraper\bin\Debug\FootballObjectContracts.pdb
+C:\Users\cmarte\Projects\NFLRank\NFLScraper\obj\Debug\NFLScraper.csprojResolveAssemblyReference.cache
+C:\Users\cmarte\Projects\NFLRank\NFLScraper\obj\Debug\NFLScraper.csproj.CoreCompileInputs.cache
+C:\Users\cmarte\Projects\NFLRank\NFLScraper\obj\Debug\NFLScraper.exe
+C:\Users\cmarte\Projects\NFLRank\NFLScraper\obj\Debug\NFLScraper.pdb
