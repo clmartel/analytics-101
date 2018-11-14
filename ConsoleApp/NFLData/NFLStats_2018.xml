@@ -1078,104 +1078,104 @@
       <Week>10</Week>
       <HomeTeam>PIT</HomeTeam>
       <AwayTeam>CAR</AwayTeam>
-      <HomePoints>0</HomePoints>
-      <AwayPoints>0</AwayPoints>
+      <HomePoints>52</HomePoints>
+      <AwayPoints>21</AwayPoints>
     </ScraperGame>
     <ScraperGame>
       <Date>2018-11-11T13:00:00</Date>
       <Week>10</Week>
       <HomeTeam>CIN</HomeTeam>
       <AwayTeam>NO</AwayTeam>
-      <HomePoints>0</HomePoints>
-      <AwayPoints>0</AwayPoints>
+      <HomePoints>14</HomePoints>
+      <AwayPoints>51</AwayPoints>
     </ScraperGame>
     <ScraperGame>
       <Date>2018-11-11T13:00:00</Date>
       <Week>10</Week>
       <HomeTeam>CLE</HomeTeam>
       <AwayTeam>ATL</AwayTeam>
-      <HomePoints>0</HomePoints>
-      <AwayPoints>0</AwayPoints>
+      <HomePoints>28</HomePoints>
+      <AwayPoints>16</AwayPoints>
     </ScraperGame>
     <ScraperGame>
       <Date>2018-11-11T13:00:00</Date>
       <Week>10</Week>
       <HomeTeam>IND</HomeTeam>
       <AwayTeam>JAX</AwayTeam>
-      <HomePoints>0</HomePoints>
-      <AwayPoints>0</AwayPoints>
+      <HomePoints>29</HomePoints>
+      <AwayPoints>26</AwayPoints>
     </ScraperGame>
     <ScraperGame>
       <Date>2018-11-11T13:00:00</Date>
       <Week>10</Week>
       <HomeTeam>CHI</HomeTeam>
       <AwayTeam>DET</AwayTeam>
-      <HomePoints>0</HomePoints>
-      <AwayPoints>0</AwayPoints>
+      <HomePoints>34</HomePoints>
+      <AwayPoints>22</AwayPoints>
     </ScraperGame>
     <ScraperGame>
       <Date>2018-11-11T13:00:00</Date>
       <Week>10</Week>
       <HomeTeam>KC</HomeTeam>
       <AwayTeam>ARI</AwayTeam>
-      <HomePoints>0</HomePoints>
-      <AwayPoints>0</AwayPoints>
+      <HomePoints>26</HomePoints>
+      <AwayPoints>14</AwayPoints>
     </ScraperGame>
     <ScraperGame>
       <Date>2018-11-11T13:00:00</Date>
       <Week>10</Week>
       <HomeTeam>NYJ</HomeTeam>
       <AwayTeam>BUF</AwayTeam>
-      <HomePoints>0</HomePoints>
-      <AwayPoints>0</AwayPoints>
+      <HomePoints>10</HomePoints>
+      <AwayPoints>41</AwayPoints>
     </ScraperGame>
     <ScraperGame>
       <Date>2018-11-11T13:00:00</Date>
       <Week>10</Week>
       <HomeTeam>TB</HomeTeam>
       <AwayTeam>WAS</AwayTeam>
-      <HomePoints>0</HomePoints>
-      <AwayPoints>0</AwayPoints>
+      <HomePoints>3</HomePoints>
+      <AwayPoints>16</AwayPoints>
     </ScraperGame>
     <ScraperGame>
       <Date>2018-11-11T13:00:00</Date>
       <Week>10</Week>
       <HomeTeam>TEN</HomeTeam>
       <AwayTeam>NE</AwayTeam>
-      <HomePoints>0</HomePoints>
-      <AwayPoints>0</AwayPoints>
+      <HomePoints>34</HomePoints>
+      <AwayPoints>10</AwayPoints>
     </ScraperGame>
     <ScraperGame>
       <Date>2018-11-11T16:05:00</Date>
       <Week>10</Week>
       <HomeTeam>OAK</HomeTeam>
       <AwayTeam>LAC</AwayTeam>
-      <HomePoints>0</HomePoints>
-      <AwayPoints>0</AwayPoints>
+      <HomePoints>6</HomePoints>
+      <AwayPoints>20</AwayPoints>
     </ScraperGame>
     <ScraperGame>
       <Date>2018-11-11T16:25:00</Date>
       <Week>10</Week>
       <HomeTeam>GB</HomeTeam>
       <AwayTeam>MIA</AwayTeam>
-      <HomePoints>0</HomePoints>
-      <AwayPoints>0</AwayPoints>
+      <HomePoints>31</HomePoints>
+      <AwayPoints>12</AwayPoints>
     </ScraperGame>
     <ScraperGame>
       <Date>2018-11-11T16:25:00</Date>
       <Week>10</Week>
       <HomeTeam>LA</HomeTeam>
       <AwayTeam>SEA</AwayTeam>
-      <HomePoints>0</HomePoints>
-      <AwayPoints>0</AwayPoints>
+      <HomePoints>36</HomePoints>
+      <AwayPoints>31</AwayPoints>
     </ScraperGame>
     <ScraperGame>
       <Date>2018-11-11T20:20:00</Date>
       <Week>10</Week>
       <HomeTeam>PHI</HomeTeam>
       <AwayTeam>DAL</AwayTeam>
-      <HomePoints>0</HomePoints>
-      <AwayPoints>0</AwayPoints>
+      <HomePoints>20</HomePoints>
+      <AwayPoints>27</AwayPoints>
     </ScraperGame>
     <ScraperGame>
       <Date>2018-11-12T20:15:00</Date>
@@ -1348,14 +1348,6 @@
     <ScraperGame>
       <Date>2018-11-25T13:00:00</Date>
       <Week>12</Week>
-      <HomeTeam>IND</HomeTeam>
-      <AwayTeam>MIA</AwayTeam>
-      <HomePoints>0</HomePoints>
-      <AwayPoints>0</AwayPoints>
-    </ScraperGame>
-    <ScraperGame>
-      <Date>2018-11-25T13:00:00</Date>
-      <Week>12</Week>
       <HomeTeam>NYJ</HomeTeam>
       <AwayTeam>NE</AwayTeam>
       <HomePoints>0</HomePoints>
@@ -1382,6 +1374,14 @@
       <Week>12</Week>
       <HomeTeam>LAC</HomeTeam>
       <AwayTeam>ARI</AwayTeam>
+      <HomePoints>0</HomePoints>
+      <AwayPoints>0</AwayPoints>
+    </ScraperGame>
+    <ScraperGame>
+      <Date>2018-11-25T16:25:00</Date>
+      <Week>12</Week>
+      <HomeTeam>IND</HomeTeam>
+      <AwayTeam>MIA</AwayTeam>
       <HomePoints>0</HomePoints>
       <AwayPoints>0</AwayPoints>
     </ScraperGame>
@@ -5962,8 +5962,8 @@
       <TouchdownsAllowed>5</TouchdownsAllowed>
       <FieldGoals>1</FieldGoals>
       <FirstDowns>22</FirstDowns>
-      <PassingYards>167</PassingYards>
-      <RushingYards>97</RushingYards>
+      <PassingYards>166</PassingYards>
+      <RushingYards>98</RushingYards>
       <Penalties>10</Penalties>
       <PenaltyYards>163</PenaltyYards>
       <Turnovers>4</Turnovers>
@@ -6193,7 +6193,7 @@
       <Turnovers>1</Turnovers>
       <Punts>5</Punts>
       <PuntYards>236</PuntYards>
-      <TimeOfPosession>27:31</TimeOfPosession>
+      <TimeOfPosession>27:35</TimeOfPosession>
     </ScraperStat>
     <ScraperStat>
       <Team>HOU</Team>
@@ -6209,7 +6209,7 @@
       <Turnovers>0</Turnovers>
       <Punts>6</Punts>
       <PuntYards>307</PuntYards>
-      <TimeOfPosession>32:29</TimeOfPosession>
+      <TimeOfPosession>32:25</TimeOfPosession>
     </ScraperStat>
     <ScraperStat>
       <Team>SEA</Team>
@@ -6299,7 +6299,7 @@
       <FieldGoals>1</FieldGoals>
       <FirstDowns>22</FirstDowns>
       <PassingYards>250</PassingYards>
-      <RushingYards>118</RushingYards>
+      <RushingYards>117</RushingYards>
       <Penalties>7</Penalties>
       <PenaltyYards>63</PenaltyYards>
       <Turnovers>1</Turnovers>
@@ -6342,418 +6342,418 @@
     <ScraperStat>
       <Team>PIT</Team>
       <Week>10</Week>
-      <Touchdowns>0</Touchdowns>
-      <TouchdownsAllowed>0</TouchdownsAllowed>
-      <FieldGoals>0</FieldGoals>
-      <FirstDowns>0</FirstDowns>
-      <PassingYards>0</PassingYards>
-      <RushingYards>0</RushingYards>
-      <Penalties>0</Penalties>
-      <PenaltyYards>0</PenaltyYards>
+      <Touchdowns>7</Touchdowns>
+      <TouchdownsAllowed>3</TouchdownsAllowed>
+      <FieldGoals>1</FieldGoals>
+      <FirstDowns>25</FirstDowns>
+      <PassingYards>319</PassingYards>
+      <RushingYards>138</RushingYards>
+      <Penalties>1</Penalties>
+      <PenaltyYards>24</PenaltyYards>
       <Turnovers>0</Turnovers>
-      <Punts>0</Punts>
-      <PuntYards>0</PuntYards>
-      <TimeOfPosession>00:00</TimeOfPosession>
+      <Punts>2</Punts>
+      <PuntYards>80</PuntYards>
+      <TimeOfPosession>30:35</TimeOfPosession>
     </ScraperStat>
     <ScraperStat>
       <Team>CAR</Team>
       <Week>10</Week>
-      <Touchdowns>0</Touchdowns>
-      <TouchdownsAllowed>0</TouchdownsAllowed>
+      <Touchdowns>3</Touchdowns>
+      <TouchdownsAllowed>7</TouchdownsAllowed>
       <FieldGoals>0</FieldGoals>
-      <FirstDowns>0</FirstDowns>
-      <PassingYards>0</PassingYards>
-      <RushingYards>0</RushingYards>
-      <Penalties>0</Penalties>
-      <PenaltyYards>0</PenaltyYards>
-      <Turnovers>0</Turnovers>
-      <Punts>0</Punts>
-      <PuntYards>0</PuntYards>
-      <TimeOfPosession>00:00</TimeOfPosession>
+      <FirstDowns>18</FirstDowns>
+      <PassingYards>147</PassingYards>
+      <RushingYards>95</RushingYards>
+      <Penalties>5</Penalties>
+      <PenaltyYards>42</PenaltyYards>
+      <Turnovers>2</Turnovers>
+      <Punts>5</Punts>
+      <PuntYards>205</PuntYards>
+      <TimeOfPosession>29:25</TimeOfPosession>
     </ScraperStat>
     <ScraperStat>
       <Team>CIN</Team>
       <Week>10</Week>
-      <Touchdowns>0</Touchdowns>
-      <TouchdownsAllowed>0</TouchdownsAllowed>
+      <Touchdowns>2</Touchdowns>
+      <TouchdownsAllowed>6</TouchdownsAllowed>
       <FieldGoals>0</FieldGoals>
-      <FirstDowns>0</FirstDowns>
-      <PassingYards>0</PassingYards>
-      <RushingYards>0</RushingYards>
-      <Penalties>0</Penalties>
-      <PenaltyYards>0</PenaltyYards>
-      <Turnovers>0</Turnovers>
-      <Punts>0</Punts>
-      <PuntYards>0</PuntYards>
-      <TimeOfPosession>00:00</TimeOfPosession>
+      <FirstDowns>13</FirstDowns>
+      <PassingYards>174</PassingYards>
+      <RushingYards>110</RushingYards>
+      <Penalties>4</Penalties>
+      <PenaltyYards>26</PenaltyYards>
+      <Turnovers>2</Turnovers>
+      <Punts>4</Punts>
+      <PuntYards>157</PuntYards>
+      <TimeOfPosession>20:14</TimeOfPosession>
     </ScraperStat>
     <ScraperStat>
       <Team>NO</Team>
       <Week>10</Week>
-      <Touchdowns>0</Touchdowns>
-      <TouchdownsAllowed>0</TouchdownsAllowed>
-      <FieldGoals>0</FieldGoals>
-      <FirstDowns>0</FirstDowns>
-      <PassingYards>0</PassingYards>
-      <RushingYards>0</RushingYards>
-      <Penalties>0</Penalties>
-      <PenaltyYards>0</PenaltyYards>
+      <Touchdowns>6</Touchdowns>
+      <TouchdownsAllowed>2</TouchdownsAllowed>
+      <FieldGoals>3</FieldGoals>
+      <FirstDowns>33</FirstDowns>
+      <PassingYards>265</PassingYards>
+      <RushingYards>244</RushingYards>
+      <Penalties>1</Penalties>
+      <PenaltyYards>5</PenaltyYards>
       <Turnovers>0</Turnovers>
       <Punts>0</Punts>
       <PuntYards>0</PuntYards>
-      <TimeOfPosession>00:00</TimeOfPosession>
+      <TimeOfPosession>39:46</TimeOfPosession>
     </ScraperStat>
     <ScraperStat>
       <Team>CLE</Team>
       <Week>10</Week>
-      <Touchdowns>0</Touchdowns>
-      <TouchdownsAllowed>0</TouchdownsAllowed>
+      <Touchdowns>4</Touchdowns>
+      <TouchdownsAllowed>2</TouchdownsAllowed>
       <FieldGoals>0</FieldGoals>
-      <FirstDowns>0</FirstDowns>
-      <PassingYards>0</PassingYards>
-      <RushingYards>0</RushingYards>
-      <Penalties>0</Penalties>
-      <PenaltyYards>0</PenaltyYards>
-      <Turnovers>0</Turnovers>
-      <Punts>0</Punts>
-      <PuntYards>0</PuntYards>
-      <TimeOfPosession>00:00</TimeOfPosession>
+      <FirstDowns>19</FirstDowns>
+      <PassingYards>216</PassingYards>
+      <RushingYards>211</RushingYards>
+      <Penalties>7</Penalties>
+      <PenaltyYards>38</PenaltyYards>
+      <Turnovers>1</Turnovers>
+      <Punts>4</Punts>
+      <PuntYards>187</PuntYards>
+      <TimeOfPosession>28:37</TimeOfPosession>
     </ScraperStat>
     <ScraperStat>
       <Team>ATL</Team>
       <Week>10</Week>
-      <Touchdowns>0</Touchdowns>
-      <TouchdownsAllowed>0</TouchdownsAllowed>
-      <FieldGoals>0</FieldGoals>
-      <FirstDowns>0</FirstDowns>
-      <PassingYards>0</PassingYards>
-      <RushingYards>0</RushingYards>
-      <Penalties>0</Penalties>
-      <PenaltyYards>0</PenaltyYards>
-      <Turnovers>0</Turnovers>
-      <Punts>0</Punts>
-      <PuntYards>0</PuntYards>
-      <TimeOfPosession>00:00</TimeOfPosession>
+      <Touchdowns>2</Touchdowns>
+      <TouchdownsAllowed>4</TouchdownsAllowed>
+      <FieldGoals>1</FieldGoals>
+      <FirstDowns>25</FirstDowns>
+      <PassingYards>311</PassingYards>
+      <RushingYards>71</RushingYards>
+      <Penalties>1</Penalties>
+      <PenaltyYards>5</PenaltyYards>
+      <Turnovers>2</Turnovers>
+      <Punts>3</Punts>
+      <PuntYards>118</PuntYards>
+      <TimeOfPosession>31:23</TimeOfPosession>
     </ScraperStat>
     <ScraperStat>
       <Team>IND</Team>
       <Week>10</Week>
-      <Touchdowns>0</Touchdowns>
-      <TouchdownsAllowed>0</TouchdownsAllowed>
+      <Touchdowns>4</Touchdowns>
+      <TouchdownsAllowed>3</TouchdownsAllowed>
       <FieldGoals>0</FieldGoals>
-      <FirstDowns>0</FirstDowns>
-      <PassingYards>0</PassingYards>
-      <RushingYards>0</RushingYards>
-      <Penalties>0</Penalties>
-      <PenaltyYards>0</PenaltyYards>
-      <Turnovers>0</Turnovers>
-      <Punts>0</Punts>
-      <PuntYards>0</PuntYards>
-      <TimeOfPosession>00:00</TimeOfPosession>
+      <FirstDowns>17</FirstDowns>
+      <PassingYards>285</PassingYards>
+      <RushingYards>81</RushingYards>
+      <Penalties>7</Penalties>
+      <PenaltyYards>45</PenaltyYards>
+      <Turnovers>1</Turnovers>
+      <Punts>3</Punts>
+      <PuntYards>138</PuntYards>
+      <TimeOfPosession>24:50</TimeOfPosession>
     </ScraperStat>
     <ScraperStat>
       <Team>JAX</Team>
       <Week>10</Week>
-      <Touchdowns>0</Touchdowns>
-      <TouchdownsAllowed>0</TouchdownsAllowed>
-      <FieldGoals>0</FieldGoals>
-      <FirstDowns>0</FirstDowns>
-      <PassingYards>0</PassingYards>
-      <RushingYards>0</RushingYards>
-      <Penalties>0</Penalties>
-      <PenaltyYards>0</PenaltyYards>
-      <Turnovers>0</Turnovers>
-      <Punts>0</Punts>
-      <PuntYards>0</PuntYards>
-      <TimeOfPosession>00:00</TimeOfPosession>
+      <Touchdowns>3</Touchdowns>
+      <TouchdownsAllowed>4</TouchdownsAllowed>
+      <FieldGoals>2</FieldGoals>
+      <FirstDowns>24</FirstDowns>
+      <PassingYards>324</PassingYards>
+      <RushingYards>91</RushingYards>
+      <Penalties>8</Penalties>
+      <PenaltyYards>61</PenaltyYards>
+      <Turnovers>1</Turnovers>
+      <Punts>3</Punts>
+      <PuntYards>138</PuntYards>
+      <TimeOfPosession>35:10</TimeOfPosession>
     </ScraperStat>
     <ScraperStat>
       <Team>CHI</Team>
       <Week>10</Week>
-      <Touchdowns>0</Touchdowns>
-      <TouchdownsAllowed>0</TouchdownsAllowed>
+      <Touchdowns>5</Touchdowns>
+      <TouchdownsAllowed>3</TouchdownsAllowed>
       <FieldGoals>0</FieldGoals>
-      <FirstDowns>0</FirstDowns>
-      <PassingYards>0</PassingYards>
-      <RushingYards>0</RushingYards>
-      <Penalties>0</Penalties>
-      <PenaltyYards>0</PenaltyYards>
+      <FirstDowns>20</FirstDowns>
+      <PassingYards>348</PassingYards>
+      <RushingYards>54</RushingYards>
+      <Penalties>6</Penalties>
+      <PenaltyYards>46</PenaltyYards>
       <Turnovers>0</Turnovers>
-      <Punts>0</Punts>
-      <PuntYards>0</PuntYards>
-      <TimeOfPosession>00:00</TimeOfPosession>
+      <Punts>3</Punts>
+      <PuntYards>144</PuntYards>
+      <TimeOfPosession>28:00</TimeOfPosession>
     </ScraperStat>
     <ScraperStat>
       <Team>DET</Team>
       <Week>10</Week>
-      <Touchdowns>0</Touchdowns>
-      <TouchdownsAllowed>0</TouchdownsAllowed>
-      <FieldGoals>0</FieldGoals>
-      <FirstDowns>0</FirstDowns>
-      <PassingYards>0</PassingYards>
-      <RushingYards>0</RushingYards>
-      <Penalties>0</Penalties>
-      <PenaltyYards>0</PenaltyYards>
-      <Turnovers>0</Turnovers>
-      <Punts>0</Punts>
-      <PuntYards>0</PuntYards>
-      <TimeOfPosession>00:00</TimeOfPosession>
+      <Touchdowns>3</Touchdowns>
+      <TouchdownsAllowed>5</TouchdownsAllowed>
+      <FieldGoals>1</FieldGoals>
+      <FirstDowns>24</FirstDowns>
+      <PassingYards>229</PassingYards>
+      <RushingYards>76</RushingYards>
+      <Penalties>6</Penalties>
+      <PenaltyYards>41</PenaltyYards>
+      <Turnovers>3</Turnovers>
+      <Punts>4</Punts>
+      <PuntYards>156</PuntYards>
+      <TimeOfPosession>32:00</TimeOfPosession>
     </ScraperStat>
     <ScraperStat>
       <Team>KC</Team>
       <Week>10</Week>
-      <Touchdowns>0</Touchdowns>
-      <TouchdownsAllowed>0</TouchdownsAllowed>
-      <FieldGoals>0</FieldGoals>
-      <FirstDowns>0</FirstDowns>
-      <PassingYards>0</PassingYards>
-      <RushingYards>0</RushingYards>
-      <Penalties>0</Penalties>
-      <PenaltyYards>0</PenaltyYards>
+      <Touchdowns>3</Touchdowns>
+      <TouchdownsAllowed>2</TouchdownsAllowed>
+      <FieldGoals>2</FieldGoals>
+      <FirstDowns>20</FirstDowns>
+      <PassingYards>212</PassingYards>
+      <RushingYards>118</RushingYards>
+      <Penalties>8</Penalties>
+      <PenaltyYards>63</PenaltyYards>
       <Turnovers>0</Turnovers>
-      <Punts>0</Punts>
-      <PuntYards>0</PuntYards>
-      <TimeOfPosession>00:00</TimeOfPosession>
+      <Punts>5</Punts>
+      <PuntYards>233</PuntYards>
+      <TimeOfPosession>28:13</TimeOfPosession>
     </ScraperStat>
     <ScraperStat>
       <Team>ARI</Team>
       <Week>10</Week>
-      <Touchdowns>0</Touchdowns>
-      <TouchdownsAllowed>0</TouchdownsAllowed>
+      <Touchdowns>2</Touchdowns>
+      <TouchdownsAllowed>3</TouchdownsAllowed>
       <FieldGoals>0</FieldGoals>
-      <FirstDowns>0</FirstDowns>
-      <PassingYards>0</PassingYards>
-      <RushingYards>0</RushingYards>
-      <Penalties>0</Penalties>
-      <PenaltyYards>0</PenaltyYards>
-      <Turnovers>0</Turnovers>
-      <Punts>0</Punts>
-      <PuntYards>0</PuntYards>
-      <TimeOfPosession>00:00</TimeOfPosession>
+      <FirstDowns>21</FirstDowns>
+      <PassingYards>166</PassingYards>
+      <RushingYards>94</RushingYards>
+      <Penalties>3</Penalties>
+      <PenaltyYards>30</PenaltyYards>
+      <Turnovers>2</Turnovers>
+      <Punts>5</Punts>
+      <PuntYards>247</PuntYards>
+      <TimeOfPosession>31:47</TimeOfPosession>
     </ScraperStat>
     <ScraperStat>
       <Team>NYJ</Team>
       <Week>10</Week>
-      <Touchdowns>0</Touchdowns>
-      <TouchdownsAllowed>0</TouchdownsAllowed>
-      <FieldGoals>0</FieldGoals>
-      <FirstDowns>0</FirstDowns>
-      <PassingYards>0</PassingYards>
-      <RushingYards>0</RushingYards>
-      <Penalties>0</Penalties>
-      <PenaltyYards>0</PenaltyYards>
-      <Turnovers>0</Turnovers>
-      <Punts>0</Punts>
-      <PuntYards>0</PuntYards>
-      <TimeOfPosession>00:00</TimeOfPosession>
+      <Touchdowns>1</Touchdowns>
+      <TouchdownsAllowed>5</TouchdownsAllowed>
+      <FieldGoals>1</FieldGoals>
+      <FirstDowns>12</FirstDowns>
+      <PassingYards>116</PassingYards>
+      <RushingYards>83</RushingYards>
+      <Penalties>1</Penalties>
+      <PenaltyYards>10</PenaltyYards>
+      <Turnovers>2</Turnovers>
+      <Punts>7</Punts>
+      <PuntYards>312</PuntYards>
+      <TimeOfPosession>20:38</TimeOfPosession>
     </ScraperStat>
     <ScraperStat>
       <Team>BUF</Team>
       <Week>10</Week>
-      <Touchdowns>0</Touchdowns>
-      <TouchdownsAllowed>0</TouchdownsAllowed>
-      <FieldGoals>0</FieldGoals>
-      <FirstDowns>0</FirstDowns>
-      <PassingYards>0</PassingYards>
-      <RushingYards>0</RushingYards>
-      <Penalties>0</Penalties>
-      <PenaltyYards>0</PenaltyYards>
+      <Touchdowns>5</Touchdowns>
+      <TouchdownsAllowed>1</TouchdownsAllowed>
+      <FieldGoals>2</FieldGoals>
+      <FirstDowns>23</FirstDowns>
+      <PassingYards>239</PassingYards>
+      <RushingYards>212</RushingYards>
+      <Penalties>4</Penalties>
+      <PenaltyYards>30</PenaltyYards>
       <Turnovers>0</Turnovers>
-      <Punts>0</Punts>
-      <PuntYards>0</PuntYards>
-      <TimeOfPosession>00:00</TimeOfPosession>
+      <Punts>4</Punts>
+      <PuntYards>174</PuntYards>
+      <TimeOfPosession>39:22</TimeOfPosession>
     </ScraperStat>
     <ScraperStat>
       <Team>TB</Team>
       <Week>10</Week>
       <Touchdowns>0</Touchdowns>
-      <TouchdownsAllowed>0</TouchdownsAllowed>
-      <FieldGoals>0</FieldGoals>
-      <FirstDowns>0</FirstDowns>
-      <PassingYards>0</PassingYards>
-      <RushingYards>0</RushingYards>
-      <Penalties>0</Penalties>
-      <PenaltyYards>0</PenaltyYards>
-      <Turnovers>0</Turnovers>
-      <Punts>0</Punts>
-      <PuntYards>0</PuntYards>
-      <TimeOfPosession>00:00</TimeOfPosession>
+      <TouchdownsAllowed>1</TouchdownsAllowed>
+      <FieldGoals>1</FieldGoals>
+      <FirstDowns>29</FirstDowns>
+      <PassingYards>398</PassingYards>
+      <RushingYards>103</RushingYards>
+      <Penalties>5</Penalties>
+      <PenaltyYards>50</PenaltyYards>
+      <Turnovers>4</Turnovers>
+      <Punts>1</Punts>
+      <PuntYards>44</PuntYards>
+      <TimeOfPosession>31:12</TimeOfPosession>
     </ScraperStat>
     <ScraperStat>
       <Team>WAS</Team>
       <Week>10</Week>
-      <Touchdowns>0</Touchdowns>
+      <Touchdowns>1</Touchdowns>
       <TouchdownsAllowed>0</TouchdownsAllowed>
-      <FieldGoals>0</FieldGoals>
-      <FirstDowns>0</FirstDowns>
-      <PassingYards>0</PassingYards>
-      <RushingYards>0</RushingYards>
-      <Penalties>0</Penalties>
-      <PenaltyYards>0</PenaltyYards>
+      <FieldGoals>3</FieldGoals>
+      <FirstDowns>15</FirstDowns>
+      <PassingYards>170</PassingYards>
+      <RushingYards>116</RushingYards>
+      <Penalties>8</Penalties>
+      <PenaltyYards>52</PenaltyYards>
       <Turnovers>0</Turnovers>
-      <Punts>0</Punts>
-      <PuntYards>0</PuntYards>
-      <TimeOfPosession>00:00</TimeOfPosession>
+      <Punts>5</Punts>
+      <PuntYards>247</PuntYards>
+      <TimeOfPosession>28:48</TimeOfPosession>
     </ScraperStat>
     <ScraperStat>
       <Team>TEN</Team>
       <Week>10</Week>
-      <Touchdowns>0</Touchdowns>
-      <TouchdownsAllowed>0</TouchdownsAllowed>
-      <FieldGoals>0</FieldGoals>
-      <FirstDowns>0</FirstDowns>
-      <PassingYards>0</PassingYards>
-      <RushingYards>0</RushingYards>
-      <Penalties>0</Penalties>
-      <PenaltyYards>0</PenaltyYards>
+      <Touchdowns>4</Touchdowns>
+      <TouchdownsAllowed>1</TouchdownsAllowed>
+      <FieldGoals>2</FieldGoals>
+      <FirstDowns>23</FirstDowns>
+      <PassingYards>235</PassingYards>
+      <RushingYards>150</RushingYards>
+      <Penalties>4</Penalties>
+      <PenaltyYards>35</PenaltyYards>
       <Turnovers>0</Turnovers>
-      <Punts>0</Punts>
-      <PuntYards>0</PuntYards>
-      <TimeOfPosession>00:00</TimeOfPosession>
+      <Punts>5</Punts>
+      <PuntYards>241</PuntYards>
+      <TimeOfPosession>32:57</TimeOfPosession>
     </ScraperStat>
     <ScraperStat>
       <Team>NE</Team>
       <Week>10</Week>
-      <Touchdowns>0</Touchdowns>
-      <TouchdownsAllowed>0</TouchdownsAllowed>
-      <FieldGoals>0</FieldGoals>
-      <FirstDowns>0</FirstDowns>
-      <PassingYards>0</PassingYards>
-      <RushingYards>0</RushingYards>
-      <Penalties>0</Penalties>
-      <PenaltyYards>0</PenaltyYards>
+      <Touchdowns>1</Touchdowns>
+      <TouchdownsAllowed>4</TouchdownsAllowed>
+      <FieldGoals>1</FieldGoals>
+      <FirstDowns>16</FirstDowns>
+      <PassingYards>244</PassingYards>
+      <RushingYards>40</RushingYards>
+      <Penalties>4</Penalties>
+      <PenaltyYards>31</PenaltyYards>
       <Turnovers>0</Turnovers>
-      <Punts>0</Punts>
-      <PuntYards>0</PuntYards>
-      <TimeOfPosession>00:00</TimeOfPosession>
+      <Punts>6</Punts>
+      <PuntYards>298</PuntYards>
+      <TimeOfPosession>27:03</TimeOfPosession>
     </ScraperStat>
     <ScraperStat>
       <Team>OAK</Team>
       <Week>10</Week>
       <Touchdowns>0</Touchdowns>
-      <TouchdownsAllowed>0</TouchdownsAllowed>
-      <FieldGoals>0</FieldGoals>
-      <FirstDowns>0</FirstDowns>
-      <PassingYards>0</PassingYards>
-      <RushingYards>0</RushingYards>
-      <Penalties>0</Penalties>
-      <PenaltyYards>0</PenaltyYards>
-      <Turnovers>0</Turnovers>
-      <Punts>0</Punts>
-      <PuntYards>0</PuntYards>
-      <TimeOfPosession>00:00</TimeOfPosession>
+      <TouchdownsAllowed>2</TouchdownsAllowed>
+      <FieldGoals>2</FieldGoals>
+      <FirstDowns>16</FirstDowns>
+      <PassingYards>203</PassingYards>
+      <RushingYards>114</RushingYards>
+      <Penalties>6</Penalties>
+      <PenaltyYards>55</PenaltyYards>
+      <Turnovers>1</Turnovers>
+      <Punts>3</Punts>
+      <PuntYards>162</PuntYards>
+      <TimeOfPosession>31:10</TimeOfPosession>
     </ScraperStat>
     <ScraperStat>
       <Team>LAC</Team>
       <Week>10</Week>
-      <Touchdowns>0</Touchdowns>
+      <Touchdowns>2</Touchdowns>
       <TouchdownsAllowed>0</TouchdownsAllowed>
-      <FieldGoals>0</FieldGoals>
-      <FirstDowns>0</FirstDowns>
-      <PassingYards>0</PassingYards>
-      <RushingYards>0</RushingYards>
-      <Penalties>0</Penalties>
-      <PenaltyYards>0</PenaltyYards>
-      <Turnovers>0</Turnovers>
-      <Punts>0</Punts>
-      <PuntYards>0</PuntYards>
-      <TimeOfPosession>00:00</TimeOfPosession>
+      <FieldGoals>2</FieldGoals>
+      <FirstDowns>16</FirstDowns>
+      <PassingYards>222</PassingYards>
+      <RushingYards>113</RushingYards>
+      <Penalties>6</Penalties>
+      <PenaltyYards>70</PenaltyYards>
+      <Turnovers>1</Turnovers>
+      <Punts>4</Punts>
+      <PuntYards>171</PuntYards>
+      <TimeOfPosession>28:50</TimeOfPosession>
     </ScraperStat>
     <ScraperStat>
       <Team>GB</Team>
       <Week>10</Week>
-      <Touchdowns>0</Touchdowns>
+      <Touchdowns>4</Touchdowns>
       <TouchdownsAllowed>0</TouchdownsAllowed>
-      <FieldGoals>0</FieldGoals>
-      <FirstDowns>0</FirstDowns>
-      <PassingYards>0</PassingYards>
-      <RushingYards>0</RushingYards>
-      <Penalties>0</Penalties>
-      <PenaltyYards>0</PenaltyYards>
-      <Turnovers>0</Turnovers>
-      <Punts>0</Punts>
-      <PuntYards>0</PuntYards>
-      <TimeOfPosession>00:00</TimeOfPosession>
+      <FieldGoals>1</FieldGoals>
+      <FirstDowns>21</FirstDowns>
+      <PassingYards>182</PassingYards>
+      <RushingYards>195</RushingYards>
+      <Penalties>6</Penalties>
+      <PenaltyYards>45</PenaltyYards>
+      <Turnovers>1</Turnovers>
+      <Punts>2</Punts>
+      <PuntYards>37</PuntYards>
+      <TimeOfPosession>27:57</TimeOfPosession>
     </ScraperStat>
     <ScraperStat>
       <Team>MIA</Team>
       <Week>10</Week>
       <Touchdowns>0</Touchdowns>
-      <TouchdownsAllowed>0</TouchdownsAllowed>
-      <FieldGoals>0</FieldGoals>
-      <FirstDowns>0</FirstDowns>
-      <PassingYards>0</PassingYards>
-      <RushingYards>0</RushingYards>
-      <Penalties>0</Penalties>
-      <PenaltyYards>0</PenaltyYards>
-      <Turnovers>0</Turnovers>
-      <Punts>0</Punts>
-      <PuntYards>0</PuntYards>
-      <TimeOfPosession>00:00</TimeOfPosession>
+      <TouchdownsAllowed>4</TouchdownsAllowed>
+      <FieldGoals>4</FieldGoals>
+      <FirstDowns>19</FirstDowns>
+      <PassingYards>163</PassingYards>
+      <RushingYards>131</RushingYards>
+      <Penalties>3</Penalties>
+      <PenaltyYards>10</PenaltyYards>
+      <Turnovers>2</Turnovers>
+      <Punts>2</Punts>
+      <PuntYards>77</PuntYards>
+      <TimeOfPosession>32:03</TimeOfPosession>
     </ScraperStat>
     <ScraperStat>
       <Team>LA</Team>
       <Week>10</Week>
-      <Touchdowns>0</Touchdowns>
-      <TouchdownsAllowed>0</TouchdownsAllowed>
-      <FieldGoals>0</FieldGoals>
-      <FirstDowns>0</FirstDowns>
-      <PassingYards>0</PassingYards>
-      <RushingYards>0</RushingYards>
-      <Penalties>0</Penalties>
-      <PenaltyYards>0</PenaltyYards>
+      <Touchdowns>4</Touchdowns>
+      <TouchdownsAllowed>4</TouchdownsAllowed>
+      <FieldGoals>3</FieldGoals>
+      <FirstDowns>25</FirstDowns>
+      <PassingYards>307</PassingYards>
+      <RushingYards>149</RushingYards>
+      <Penalties>10</Penalties>
+      <PenaltyYards>102</PenaltyYards>
       <Turnovers>0</Turnovers>
-      <Punts>0</Punts>
-      <PuntYards>0</PuntYards>
-      <TimeOfPosession>00:00</TimeOfPosession>
+      <Punts>2</Punts>
+      <PuntYards>89</PuntYards>
+      <TimeOfPosession>29:23</TimeOfPosession>
     </ScraperStat>
     <ScraperStat>
       <Team>SEA</Team>
       <Week>10</Week>
-      <Touchdowns>0</Touchdowns>
-      <TouchdownsAllowed>0</TouchdownsAllowed>
-      <FieldGoals>0</FieldGoals>
-      <FirstDowns>0</FirstDowns>
-      <PassingYards>0</PassingYards>
-      <RushingYards>0</RushingYards>
-      <Penalties>0</Penalties>
-      <PenaltyYards>0</PenaltyYards>
-      <Turnovers>0</Turnovers>
-      <Punts>0</Punts>
-      <PuntYards>0</PuntYards>
-      <TimeOfPosession>00:00</TimeOfPosession>
+      <Touchdowns>4</Touchdowns>
+      <TouchdownsAllowed>4</TouchdownsAllowed>
+      <FieldGoals>1</FieldGoals>
+      <FirstDowns>29</FirstDowns>
+      <PassingYards>141</PassingYards>
+      <RushingYards>273</RushingYards>
+      <Penalties>7</Penalties>
+      <PenaltyYards>56</PenaltyYards>
+      <Turnovers>1</Turnovers>
+      <Punts>3</Punts>
+      <PuntYards>165</PuntYards>
+      <TimeOfPosession>30:37</TimeOfPosession>
     </ScraperStat>
     <ScraperStat>
       <Team>PHI</Team>
       <Week>10</Week>
-      <Touchdowns>0</Touchdowns>
-      <TouchdownsAllowed>0</TouchdownsAllowed>
-      <FieldGoals>0</FieldGoals>
-      <FirstDowns>0</FirstDowns>
-      <PassingYards>0</PassingYards>
-      <RushingYards>0</RushingYards>
+      <Touchdowns>2</Touchdowns>
+      <TouchdownsAllowed>3</TouchdownsAllowed>
+      <FieldGoals>2</FieldGoals>
+      <FirstDowns>23</FirstDowns>
+      <PassingYards>350</PassingYards>
+      <RushingYards>71</RushingYards>
       <Penalties>0</Penalties>
       <PenaltyYards>0</PenaltyYards>
-      <Turnovers>0</Turnovers>
-      <Punts>0</Punts>
-      <PuntYards>0</PuntYards>
-      <TimeOfPosession>00:00</TimeOfPosession>
+      <Turnovers>1</Turnovers>
+      <Punts>2</Punts>
+      <PuntYards>88</PuntYards>
+      <TimeOfPosession>26:38</TimeOfPosession>
     </ScraperStat>
     <ScraperStat>
       <Team>DAL</Team>
       <Week>10</Week>
-      <Touchdowns>0</Touchdowns>
-      <TouchdownsAllowed>0</TouchdownsAllowed>
-      <FieldGoals>0</FieldGoals>
-      <FirstDowns>0</FirstDowns>
-      <PassingYards>0</PassingYards>
-      <RushingYards>0</RushingYards>
-      <Penalties>0</Penalties>
-      <PenaltyYards>0</PenaltyYards>
+      <Touchdowns>3</Touchdowns>
+      <TouchdownsAllowed>2</TouchdownsAllowed>
+      <FieldGoals>2</FieldGoals>
+      <FirstDowns>23</FirstDowns>
+      <PassingYards>239</PassingYards>
+      <RushingYards>171</RushingYards>
+      <Penalties>5</Penalties>
+      <PenaltyYards>37</PenaltyYards>
       <Turnovers>0</Turnovers>
-      <Punts>0</Punts>
-      <PuntYards>0</PuntYards>
-      <TimeOfPosession>00:00</TimeOfPosession>
+      <Punts>4</Punts>
+      <PuntYards>163</PuntYards>
+      <TimeOfPosession>33:22</TimeOfPosession>
     </ScraperStat>
     <ScraperStat>
       <Team>SF</Team>
@@ -7428,38 +7428,6 @@
       <TimeOfPosession>00:00</TimeOfPosession>
     </ScraperStat>
     <ScraperStat>
-      <Team>IND</Team>
-      <Week>12</Week>
-      <Touchdowns>0</Touchdowns>
-      <TouchdownsAllowed>0</TouchdownsAllowed>
-      <FieldGoals>0</FieldGoals>
-      <FirstDowns>0</FirstDowns>
-      <PassingYards>0</PassingYards>
-      <RushingYards>0</RushingYards>
-      <Penalties>0</Penalties>
-      <PenaltyYards>0</PenaltyYards>
-      <Turnovers>0</Turnovers>
-      <Punts>0</Punts>
-      <PuntYards>0</PuntYards>
-      <TimeOfPosession>00:00</TimeOfPosession>
-    </ScraperStat>
-    <ScraperStat>
-      <Team>MIA</Team>
-      <Week>12</Week>
-      <Touchdowns>0</Touchdowns>
-      <TouchdownsAllowed>0</TouchdownsAllowed>
-      <FieldGoals>0</FieldGoals>
-      <FirstDowns>0</FirstDowns>
-      <PassingYards>0</PassingYards>
-      <RushingYards>0</RushingYards>
-      <Penalties>0</Penalties>
-      <PenaltyYards>0</PenaltyYards>
-      <Turnovers>0</Turnovers>
-      <Punts>0</Punts>
-      <PuntYards>0</PuntYards>
-      <TimeOfPosession>00:00</TimeOfPosession>
-    </ScraperStat>
-    <ScraperStat>
       <Team>NYJ</Team>
       <Week>12</Week>
       <Touchdowns>0</Touchdowns>
@@ -7573,6 +7541,38 @@
     </ScraperStat>
     <ScraperStat>
       <Team>ARI</Team>
+      <Week>12</Week>
+      <Touchdowns>0</Touchdowns>
+      <TouchdownsAllowed>0</TouchdownsAllowed>
+      <FieldGoals>0</FieldGoals>
+      <FirstDowns>0</FirstDowns>
+      <PassingYards>0</PassingYards>
+      <RushingYards>0</RushingYards>
+      <Penalties>0</Penalties>
+      <PenaltyYards>0</PenaltyYards>
+      <Turnovers>0</Turnovers>
+      <Punts>0</Punts>
+      <PuntYards>0</PuntYards>
+      <TimeOfPosession>00:00</TimeOfPosession>
+    </ScraperStat>
+    <ScraperStat>
+      <Team>IND</Team>
+      <Week>12</Week>
+      <Touchdowns>0</Touchdowns>
+      <TouchdownsAllowed>0</TouchdownsAllowed>
+      <FieldGoals>0</FieldGoals>
+      <FirstDowns>0</FirstDowns>
+      <PassingYards>0</PassingYards>
+      <RushingYards>0</RushingYards>
+      <Penalties>0</Penalties>
+      <PenaltyYards>0</PenaltyYards>
+      <Turnovers>0</Turnovers>
+      <Punts>0</Punts>
+      <PuntYards>0</PuntYards>
+      <TimeOfPosession>00:00</TimeOfPosession>
+    </ScraperStat>
+    <ScraperStat>
+      <Team>MIA</Team>
       <Week>12</Week>
       <Touchdowns>0</Touchdowns>
       <TouchdownsAllowed>0</TouchdownsAllowed>
