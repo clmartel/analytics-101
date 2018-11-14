@@ -1182,8 +1182,8 @@
       <Week>10</Week>
       <HomeTeam>SF</HomeTeam>
       <AwayTeam>NYG</AwayTeam>
-      <HomePoints>0</HomePoints>
-      <AwayPoints>0</AwayPoints>
+      <HomePoints>23</HomePoints>
+      <AwayPoints>27</AwayPoints>
     </ScraperGame>
     <ScraperGame>
       <Date>2018-11-15T20:20:00</Date>
@@ -6758,34 +6758,34 @@
     <ScraperStat>
       <Team>SF</Team>
       <Week>10</Week>
-      <Touchdowns>0</Touchdowns>
-      <TouchdownsAllowed>0</TouchdownsAllowed>
-      <FieldGoals>0</FieldGoals>
-      <FirstDowns>0</FirstDowns>
-      <PassingYards>0</PassingYards>
-      <RushingYards>0</RushingYards>
-      <Penalties>0</Penalties>
-      <PenaltyYards>0</PenaltyYards>
-      <Turnovers>0</Turnovers>
-      <Punts>0</Punts>
-      <PuntYards>0</PuntYards>
-      <TimeOfPosession>00:00</TimeOfPosession>
+      <Touchdowns>2</Touchdowns>
+      <TouchdownsAllowed>3</TouchdownsAllowed>
+      <FieldGoals>3</FieldGoals>
+      <FirstDowns>24</FirstDowns>
+      <PassingYards>250</PassingYards>
+      <RushingYards>124</RushingYards>
+      <Penalties>10</Penalties>
+      <PenaltyYards>97</PenaltyYards>
+      <Turnovers>2</Turnovers>
+      <Punts>3</Punts>
+      <PuntYards>133</PuntYards>
+      <TimeOfPosession>34:14</TimeOfPosession>
     </ScraperStat>
     <ScraperStat>
       <Team>NYG</Team>
       <Week>10</Week>
-      <Touchdowns>0</Touchdowns>
-      <TouchdownsAllowed>0</TouchdownsAllowed>
-      <FieldGoals>0</FieldGoals>
-      <FirstDowns>0</FirstDowns>
-      <PassingYards>0</PassingYards>
-      <RushingYards>0</RushingYards>
-      <Penalties>0</Penalties>
-      <PenaltyYards>0</PenaltyYards>
+      <Touchdowns>3</Touchdowns>
+      <TouchdownsAllowed>2</TouchdownsAllowed>
+      <FieldGoals>2</FieldGoals>
+      <FirstDowns>17</FirstDowns>
+      <PassingYards>180</PassingYards>
+      <RushingYards>97</RushingYards>
+      <Penalties>8</Penalties>
+      <PenaltyYards>78</PenaltyYards>
       <Turnovers>0</Turnovers>
-      <Punts>0</Punts>
-      <PuntYards>0</PuntYards>
-      <TimeOfPosession>00:00</TimeOfPosession>
+      <Punts>5</Punts>
+      <PuntYards>238</PuntYards>
+      <TimeOfPosession>25:46</TimeOfPosession>
     </ScraperStat>
     <ScraperStat>
       <Team>SEA</Team>
